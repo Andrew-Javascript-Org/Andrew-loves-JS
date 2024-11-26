@@ -6,7 +6,7 @@
 <body>
 <script type="text/javascript" src="hehe.js"></script>
 <script  >
-    useless('Amigo');
+    useless('Amigo!!');
     window.onload=useless('Amigo')
 </script>
 
